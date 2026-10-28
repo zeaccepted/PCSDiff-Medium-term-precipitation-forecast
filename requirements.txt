@@ -1,0 +1,9 @@
+# Install a PyTorch build matching your CUDA driver first: https://pytorch.org/get-started/locally/
+torch
+numpy
+scipy
+netCDF4
+matplotlib
+pandas
+tqdm
+tensorboard
